@@ -12,7 +12,7 @@ We used Python, its libraries like Numpy, Collections, and computer vision techn
 
 
 ### Trackbar and Mask Window
-![Screenshot (369)](https://user-images.githubusercontent.com/85826885/123541152-9a455780-d760-11eb-978f-08c9be0709f5.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/87267089/125208134-5d27ac00-e2ae-11eb-98f2-6254fe01882f.png)
 
 
  ## Algorithm
