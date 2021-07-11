@@ -7,7 +7,7 @@ How wonder it will be if we can draw things by just waving our finger in the air
 We used Python, its libraries like Numpy, Collections, and computer vision techniques of OpenCV to draw anything on the canvas by just capturing the motion of a colored marker with a web camera. We made a basic prototype of Virtual Paint, which enables the user to draw on their system screen by drawing in the air with a bead (we used blue one) which is tracked by the computer webcam. So, to achieve this objective, we used two techniques- Color Detection and Tracking along with the use of masking to keep a track on target bead in real time. 
 
 ### Tracking and Paint Canvas Window
-![Screenshot (368)](https://user-images.githubusercontent.com/85826885/123541151-99142a80-d760-11eb-80a4-fbf32da14dc3.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/87267089/125208123-4bde9f80-e2ae-11eb-941f-ee149f079889.png)
 
 
 
