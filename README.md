@@ -28,9 +28,7 @@ We used Python, its libraries like Numpy, Collections, and computer vision techn
 
 
  ## How We Proceeded
-As mentioned above, we first imported all the required libraries, including cv2, NumPy, and deque data structure, which is a part of library collections.
-
-Our whole task was primarily boiled down to three things- namely- color detection, tracking and drawing on the canvas.
+As mentioned above, we first imported all the required libraries, including cv2, NumPy, and collections(for deque data structure). 
 
  #### *For thecolor detection part*,
 - We used OpenCV function “createTrackbar()” used to track colors in HSV space. So, we created six different track bars for upper Hue, upper Saturation, upper Value, lower Hue, lower Saturation, and lower Value where 'Hue' represents the color, 'Saturation'- the amount to which that respective color is mixed with white & 'Value'- the amount to which that respective color is mixed with black (Gray level).
