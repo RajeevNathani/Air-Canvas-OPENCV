@@ -39,7 +39,7 @@ To create boxes for different colors in the paint window, cv2.rectangle() and cv
 #### *For the drawing on the canvas part* 
 - We used cv2.line() function to join between any two points and then we showed the output on the canvas using cv2.imshow() function
 
-
+#### *Implementation of the algorithm in nutshell*
 
 - For capturing the live frames, cv2.VideoCapture is used and for processing of each frame, we run a while loop which will end when the user will press the key ‘q’ on the keyboard. 
 
